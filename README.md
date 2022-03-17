@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lisaorth
-- 👀 I’m interested in ...getting verified on versum, which honestly is a pain in the ass so far
-- 🌱 I’m currently learning ... p5 
-- 💞️ I’m looking to collaborate ... with the universe through the use of the random() function
+- 👀 I’m interested in generative art and queer culture
+- 🌱 I’m currently always learning more in p5 
+- 💞️ I’m looking to collaborate with the universe through the use of the random() function
 - 📫 How to reach me ... hit me up on twitter lisaorthstudio
 
 <!---
